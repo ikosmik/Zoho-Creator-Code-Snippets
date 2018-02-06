@@ -1,6 +1,6 @@
 /**
-@summary: Insert zoho creator subform records througth the Deluge scripts
-		  Example: Lets take a Order Management Appication
+@summary: Insert Zoho Creator subform entries / records through Deluge scripting
+		  Example: Let's consider a Order Management Appication
 		  Step 1: Order Form has to make one order has allow to enter multiple products records which is from the 'Product' Form
 		  Step 2: So In 'Order Form' has the Subform for 'Product Form' which is allow to enter multiple product records for one order
 		  Step 3: In such case to insert the product records for the single order througth the deluge script
